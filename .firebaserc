@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "idiomas-e1269": {
+      "hosting": {
+        "app": [
+          "idiomas-e1269"
+        ]
+      }
+    }
+  }
+}
